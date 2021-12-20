@@ -5,11 +5,11 @@ Generate the mathematical constant *e* using the method described in [this](http
 ## Example Images
 
 <p float="left">
-<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg10.png?raw=true" width="50%" />
+<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg10.png?raw=true" width="49%" />
 
-<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg100.png?raw=true" width="50%" />
+<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg100.png?raw=true" width="49%" />
 
-<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg1000.png?raw=true" width="50%" />
+<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg1000.png?raw=true" width="49%" />
 
-<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg10000.png?raw=true" width="50%" />
+<img src="https://github.com/rohildshah/generate-e/blob/master/examples/deg10000.png?raw=true" width="49%" />
 </p>
